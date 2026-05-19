@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IST 431 Project Simone Orange</title>
+          <link rel="icon" type="image/gif" href="https://pixels.crd.co/assets/images/gallery19/8a5fc052.gif?v=29416114">
+
+    
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    
+        <div id="container"><div id="header"></div>
+            <div id="headerArea">
+                
+                <nav id="navbar" style="margin-bottom: 10px;">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="prompt1.html" class="active">Prompt 1</a></li>
+                        <li><a href="prompt2.html">Prompt 2</a></li>
+                        <li><a href="prompt3.html">Prompt 3</a></li>
+                        <li><a href="journal.html">Journal</a></li>
+                        <li><a href="references.html">References</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div id="flex">
+                
+                <main>
+                    <h1>Prompt 1</h1>
+<h2 id= "What1">What does the technology do? What do people use it for?</h2>
+<p>Roblox is an online gaming and creation platform made for people of all ages. Users can play games with others online as well as create games, customized avatars, and items. It's a free-to-play platform that integrates a virtual currency that users can spend on add-ons for games or to customize their characters.</p>
+
+<img src="robloxDance.gif" alt="Dancing"  width="550" height="350" >
+
+<h2 id="Who1">Who uses this technology? </h2>
+<p>Roblox was originally designed to be for children, but it has expanded since the original release to be for all ages. They have also recently put out a new way for those younger than 16 to safely use Roblox through age-based accounts. They have also added a requirement for those who are age-verified as 17+ to have access to certain restricted features that aren't allowed for anyone 16 and under.</p>
+
+<h2 id="Who2">Who else is affected by this use of the technology?</h2>
+<p>Parents can definitely be affected by their children using Roblox since a lot of the features and overall account creation process require parental involvement. If a child wants to spend money on Robux, then the parent needs to be involved in that purchase too to ensure there is no unauthorized spending taking place. They also should be very involved when it comes to how their children are using Roblox because they could be involved in things that aren't appropriate or interacting with other users who are a possible danger to them.</p>
+
+<h2 id="Who3">Who decided to use this technology? Why did they decide to use it?</h2>
+<p>Many people around the world have decided to use Roblox. With there currently being over 10 billion registered accounts and around 144 million daily active users, there are so many out there who choose to use Roblox every day. A Wired article from 2021 speaks about Roblox and how the author's kids are heavily interested in playing on the platform during their time in quarantine. The author, Simon Hill, also interviewed the creator of the game Royale High, who spoke about how there are many different players who can find something in common who will "have my same mindset and like the same things as me." Hill wrote about the different features as well, which is good for parents, but the interview with the game creator, Callmehbob, showed so much detail about how young adults can have a major interest in game design and the platform. He mentions how she started in 2007 at the age of 12, and at the age of 22 in 2017, she started developing a game which has become a huge hit. It currently has a total of over 10 billion visits and a community with over 1.1 million members.</p>
+
+<img src="royalehigh.webp" alt="Royale High"  width="550" height="350" >
+
+<h2 id="Does1">How well does this technology do the thing people are using it for? What unintended consequences arise out of using this technology? </h2>
+<p>Roblox has improved so much over the past 20 years. It has expanded and added so many new features, and many users are able to use all of them in multiple different ways. The addition of new features, such as their voice chat feature, can also lead to possible problems, such as children being exposed to swearing or the possibility of any inappropriate terms being said online. They do have a filtering system to put bans in place for those who swear, but it might not fully block out any bad terms. Accounts for those under 16 are also set up to only hear others in their age group, which provides an extra layer of safety for younger players.</p>
+
+<img src="robloxVideo.jpg" alt="Roblox Video Transition"  width="550" height="350" >
+
+<!--<li><a href="#June2025">June 2025</a></li>-->
+<!--<h2 id="June2025">June 2025</h2>-->
+
+                </main>
+                
+                <aside id="rightSidebar" style="width: 290px;"><h2>Sections</h2>
+            <div class="box">
+                <p>Prompt 1 Sections</p>
+                <ul style="padding-left:10px;"><!-- 10px-->
+                    <li><a href= "#What1">What roblox does and what it's for</a></li>
+                    <li><a href= "#Who1">Who uses Roblox</a></li>
+                    <li><a href= "#Who2">Who is affected by Roblox</a></li>
+                    <li><a href= "#Who3">Who chose to use Roblox</a></li>
+                    <li><a href= "#Does1">Does Roblox do its job well?</a></li>
+                </ul>
+            </div>
+            <!--<h2>h2 here</h2>-->
+            <!--<h3>h3 here</h3>-->
+            <!--<ul>-->
+              <!--  <li>text</li>-->
+              <!--  <li>text</li>-->
+              <!--  <li>text</li>-->
+              <!--  <li>text</li>-->
+                
+           <!-- </ul>--></aside>
+            
+                
+            </div>
+            <footer id="footer" style="margin-top: 10px;">simoneorange00@gmail.com, last updated  5/1/2026</footer>
+        </div>
+        
+        
+
+  </body>
+</html>
